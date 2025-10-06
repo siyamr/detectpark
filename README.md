@@ -90,8 +90,6 @@ detectpark/
         └── ...
 ```
 
-
-
 ## Features
 
 - **Multi-modal Analysis** : Three complementary approaches for robust detection
@@ -118,4 +116,4 @@ This final year project is part of an academic research initiative at ESME Sudri
 
 ---
 
-**Note** : This project is for educational and research purposes only.
+**Note** : This project is for educational purposes only.
